@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajendran</h1>
-<h3 align="center">A aspiring Data Scientist from India</h3>
+<h3 align="center">An aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajendran2201" alt="rajendran2201" /></a> </p>
-
-- 🌱 I’m currently learning **ML, DL and Computer Vision**
+- 🌱 I’m currently learning **ML,DSA and Web Development**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajendran s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajendran s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajendran-s-02b222270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajendran s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajendran2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajendran2201" height="30" width="40" /></a>
 </p>
 
