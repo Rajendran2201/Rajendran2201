@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
 
-- 🌱 I’m currently learning **ML,DSA and Web Development**
+- 🌱 I’m currently learning **ML, DSA and Web Development**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
