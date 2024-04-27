@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
-👨🏻‍💻 <h3>About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<h3>👨🏻‍💻 About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🌱 I’m a student currently learning **ML, DSA and Web Development**
 
