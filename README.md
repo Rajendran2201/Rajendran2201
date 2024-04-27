@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love Writing and Teaching**
   
-- 💬 Ask me about Latest Technologies, Philosophy and Entrepreneurship
+- 💬 Ask me about **Latest Technologies, Philosophy and Entrepreneurship**
 
 
 <h3 align="left">Languages and Tools:</h3>
