@@ -15,7 +15,7 @@
 
 - 📫 How to reach me? **asrajendrayadav@gmail.com** or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
 
-- ⚡ Fun fact **I love Writing and Teaching **
+- ⚡ Fun fact **I love Writing and Teaching**
 
 
 <h3 align="left">Languages and Tools:</h3>
