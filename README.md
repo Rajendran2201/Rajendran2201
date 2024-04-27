@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
-👨🏻‍💻 **About Me**<img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 <h3>About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - 🌱 I’m a student currently learning **ML, DSA and Web Development**
 
@@ -31,8 +31,13 @@
 <!--- 2nd Section on GitHub Analytics -->
 
 
-  <summary><b>⚙️GitHub Analytics</b></summary>
+<h3 align="left"><b>⚙️GitHub Analytics</b></h3>
 <a href="https://github.com/Rajendran2201">
+
+[![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
  
 
 
