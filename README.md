@@ -32,7 +32,7 @@
 <!--- 2nd Section on GitHub Analytics -->
 
 
-<h3 align="left"><b>⚙️GitHub Analytics</b></h3>
+<!---<h3 align="left"><b>⚙️GitHub Analytics</b></h3> --->
 
 
 [![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
