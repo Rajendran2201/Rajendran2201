@@ -4,7 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a> - 
   <a href="https://www.leetcode.com/rajendran2201" target="blank">Leetcode</a> -
-  <a href="https://www.hackerrank.com/profile/asrajendrayadav" target="blank">HackerRank</a>
+  <a href="https://www.hackerrank.com/profile/asrajendrayadav" target="blank">HackerRank</a> -
+  <a href="https://x.com/rajastwt" target="blank">Twitter</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
