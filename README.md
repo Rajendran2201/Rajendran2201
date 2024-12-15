@@ -11,15 +11,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
 <h3>👨🏻‍💻 About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- 🌱 I’m a student currently learning **ML, DSA and Web Development**
+- 🌱 I’m a student currently learning **Machine Learning, alongside Fullstack Development**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 - 📫 How to reach me? **rajendran.stech@gmail.com** or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
-
-- ⚡ Fun fact **I love Writing and Teaching**
   
-- 💬 Ask me about **Latest Technologies, Entrepreneurship and Philosophy**
+- 💬 Ask me about **nerdy things, leetcode-ing or building stuff**
+- 🏝️ Where am I?  Currently Studying **Artificial Intelligence & Data Science** at Coimbatore Institute of Technology (CIT) at Coimbatore
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +44,7 @@
 <div align="center">
 
 
-#### Show some ❤️ by starring some of the repositories!
+#### spread LOVE ❤️ 
 </div>
 
      
