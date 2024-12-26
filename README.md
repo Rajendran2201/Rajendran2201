@@ -17,7 +17,7 @@
 
 - 📫 How to reach me? **rajendran.stech@gmail.com** or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
   
-- 💬 Ask me about **nerdy things, leetcode-ing or building stuff**
+- ⏳ How I spend my time? **doing nerdy things, leetcode-ing or building stuff**
 - 🏝️ Where am I?  Currently studying **Artificial Intelligence & Data Science** at Coimbatore Institute of Technology (CIT) at Coimbatore
 
 
