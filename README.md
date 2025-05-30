@@ -15,7 +15,7 @@
 
 - I’m a student currently learning **Machine Learning, alongside Fullstack Development**
 
-- I’m looking to collaborate on **Machine Learning Projects**
+- My research areas are *Computer Vision, Object Detection, Audio analysis, Generative Adversarial Networks(GAN) and Large Language Models(LLMs)*
 
 - How to reach me? **rajendran.stech@gmail.com** or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
   
