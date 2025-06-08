@@ -21,7 +21,7 @@
  
 - Where am I?  Currently studying **Artificial Intelligence & Data Science** at Coimbatore Institute of Technology (CIT) at Coimbatore
 
-- Check out my [portfolio](https://rajendrancodes.vercel.app/) to view my work, projects, and contributions.
+- Check out my <a href="https://rajendrancodes.vercel.app/" target="_blank">portfolio</a> to view my work, projects, and contributions.
 
 
 <h3 align="left">Languages and Tools:</h3>
