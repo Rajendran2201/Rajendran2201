@@ -13,9 +13,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
 <h3>👨🏻‍💻 About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- I’m a student currently learning **Cloud services, alongside Mobile app Development**
+- I’m a student currently working in **Deep Learning**
 
-- My research areas are *Computer Vision, Object Detection, Audio analysis, Generative Adversarial Networks(GAN) and Large Language Models(LLMs)*
+- My research areas are *Computer Vision, Object Detection, Audio analysis, and Large Language Models(LLMs)*
 
 - How to reach me? **rajendran.stech@gmail.com** or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
  
