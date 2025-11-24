@@ -3,17 +3,22 @@ name: Update Medium posts
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+
+permissions:
+  contents: write   # REQUIRED for git push
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Update Medium posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Update Medium Posts in README
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/%40rajendran22"
           max_post_count: 5
