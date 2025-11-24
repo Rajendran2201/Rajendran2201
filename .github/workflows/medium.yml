@@ -1,20 +1,21 @@
-name: Update Medium Posts
+name: Update Medium posts
 
 on:
-  schedule:
-    - cron: '0 */12 * * *'   # Runs every 12 hours
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Fetch latest Medium posts
+      - name: Update Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/@rajendran22"
-          max_post_count: 5   # Number of posts to show
+          feed_list: "https://feed.medium.com/@rajendran22"
+          max_post_count: 5
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
