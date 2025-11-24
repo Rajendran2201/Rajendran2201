@@ -33,9 +33,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 <!-- BLOG-POST-LIST:END -->
 
 
-I write regular blog posts, most of which you will find on my personal [website](https://rajendrancodes.vercel.app/) and [medium](https://medium.com/@rajendran22)
-
-I write about things I am familiar with, things that trip me up in my projects, and things that I am learning. Day-to-day, I create things with data using Python and Machine Learning.
+I write regular blog posts, most of which you will find on my personal [website](https://rajendrancodes.vercel.app/) and [medium](https://medium.com/@rajendran22). I write about things I am familiar with, things that trip me up in my projects, and things that I am learning. Day-to-day, I create things with data using Python and Machine Learning.
 
 <!--Languages and Tools-->
 <details>
