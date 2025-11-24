@@ -111,7 +111,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 <div style="display: flex; gap: 20px; align-items: center;">
 
-  <a href="https://medium.com/@asrajendrayadav" target="_blank">
+  <a href="https://medium.com/@rajendran22" target="_blank">
     <img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/medium.png" 
          alt="Instagram"
          style="width: 40px; object-position: -240px 0;">
