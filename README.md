@@ -16,9 +16,6 @@ I’m a AI and Data Science Student at [CIT](https://www.cit.edu.in/) with hands
 - Where am I?  Currently Living in [Coimbatore](https://www.google.com/search?sca_esv=a4306da362cb3c28&sxsrf=AE3TifMc4NJ3pkMr1BBp11PJwbj25B4qYA:1764010108316&q=Coimbatore&stick=H4sIAAAAAAAAAONgVuLVT9c3NEw3yE4xTS8oX8TK5ZyfmZuUWJJflAoA1f2j8B4AAAA&sa=X&ved=2ahUKEwjvs4vfuYuRAxV8-DgGHTMjFBEQmxN6BAgZEAI)
 
 
-
-
-
 Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/) for a more detailed description of my full work experience, education, and certification. You can get in touch with me by email at [rajendran.stech@gmail.com](mailto:rajendran.stech@gmail.com) 
 
 <!--Latest Blogs-->
@@ -34,6 +31,25 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 
 I write regular blog posts, most of which you will find on my personal [website](https://rajendrancodes.vercel.app/) and [medium](https://medium.com/@rajendran22). I write about things I am familiar with, things that trip me up in my projects, and things that I am learning. Day-to-day, I create things with data using Python and Machine Learning.
+
+### My projects 
+All of my projects are released as open-source on GitHub, including some of my GitHub trending projects:
+
+- [wastewise](https://github.com/Rajendran2201/waste-object-detection): This proof-of-concept is a web application that can classify the waste objects in real-time. This project involved capturing real-world images, annotating and labelling the data, training, and evaluating the models. Four different YOLO models,  such as YOLOv10s, YOLOv10m, YOLOv11n, and YOLOv12s, were trained on the collected dataset.
+- [annonify](https://github.com/Rajendran2201/identification-and-redaction-of-PII-in-documents): This project is an end-to-end application designed to detect sensitive information in documents using YOLOv8. It aims to detect the PIIs in the document and redact them. It also provides functionalities to replace the PIIs when given a text input.
+- [factoryeye](https://github.com/Rajendran2201/remote-monitoring-of-utility-parameters-using-alerts): It provides real-time monitoring and predictive analytics for industrial operations with AI analysis and recommendations. It analyses the real-time data of the utility parameters collected from the industries through sensors and visualises them on a dashboard with charts, 3D VR-based Visualisation, and alerts.
+- [respio](https://github.com/Rajendran2201/pulmonary-infection-detection): This project aims to ensure the health and safety of workers in the food processing industries. It receives the employee’s respiratory audio as input, and the trained model will analyze the audio, and the deep learning-based system will classify them into different respiratory diseases.
+- [tinytoes](https://github.com/Rajendran2201/babycare): It is a comprehensive web platform designed to help parents understand and care for their babies using advanced AI technology. It offers features such as baby cry analysis, milestone tracking, expert consultations, and a nanny booking service to provide seamless support to parents.
+- [cognichat](https://github.com/Rajendran2201/CogniChat): This project allows users to upload multiple PDF documents and interactively chat about the content of those documents using a conversational AI model. The chatbot is designed to process PDF files, extract text from them, and generate embeddings for the text chunks using an open-source model (FLAN-T5). 
+
+[⏩ and many more](https://github.com/Rajendran2201?page=2&tab=repositories)
+
+
+### Awards and Achievements
+
+- Won 1st place in Several Hackathons and technical events
+- completed [100 days of coding challenge](https://github.com/Rajendran2201/100-days-of-Coding-Challenge)
+
 
 <!--Languages and Tools-->
 <details>
