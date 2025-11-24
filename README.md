@@ -5,7 +5,7 @@ I’m a AI and Data Science Student at [CIT](https://www.cit.edu.in/) with hands
 
 <p align="center">
   
-<h3>👨🏻‍💻 About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<h4>👨🏻‍💻 About Me</h4><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
 - I’m a student currently working on **Machine Learning** Projects.
 
@@ -20,7 +20,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 <!--Latest Blogs-->
 
-### Latest Posts
+#### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is MCP and why is suddenly everyone talking about it?](https://rajendran22.medium.com/what-is-mcp-and-why-is-suddenly-everyone-talking-about-it-a46339fd47b3?source=rss-25951d3df7b1------2)
 - [Is simplicity the new sophistication?](https://rajendran22.medium.com/is-simplicity-the-new-sophistication-36724668eb1b?source=rss-25951d3df7b1------2)
@@ -32,8 +32,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 I write regular blog posts, most of which you will find on my personal [website](https://rajendrancodes.vercel.app/) and [medium](https://medium.com/@rajendran22). I write about things I am familiar with, things that trip me up in my projects, and things that I am learning. Day-to-day, I create things with data using Python and Machine Learning.
 
-### My projects 
-All of my projects are released as open-source on GitHub, including some of my GitHub trending projects:
+#### My Projects 
+All of my projects are released as open-source on GitHub:
 
 - [wastewise](https://github.com/Rajendran2201/waste-object-detection): This proof-of-concept is a web application that can classify the waste objects in real-time. This project involved capturing real-world images, annotating and labelling the data, training, and evaluating the models. Four different YOLO models,  such as YOLOv10s, YOLOv10m, YOLOv11n, and YOLOv12s, were trained on the collected dataset.
 - [annonify](https://github.com/Rajendran2201/identification-and-redaction-of-PII-in-documents): This project is an end-to-end application designed to detect sensitive information in documents using YOLOv8. It aims to detect the PIIs in the document and redact them. It also provides functionalities to replace the PIIs when given a text input.
@@ -45,15 +45,16 @@ All of my projects are released as open-source on GitHub, including some of my G
 [⏩ and many more](https://github.com/Rajendran2201?page=2&tab=repositories)
 
 
-### Awards and Achievements
+#### Awards and Achievements
 
-- Won 1st place in Several Hackathons and technical events
+- won 1st place in several hackathons and technical events
 - completed [100 days of coding challenge](https://github.com/Rajendran2201/100-days-of-Coding-Challenge)
+- organized several impactful events for the student community of [CIT](https://www.cit.edu.in/), taking on major leadership responsibilities
 
 
 <!--Languages and Tools-->
 <details>
-  <summary><h3>Languages and Tools</h3></summary>
+  <summary><h4>Languages and Tools</h4></summary>
 
   <p align="left">
 
@@ -129,7 +130,7 @@ All of my projects are released as open-source on GitHub, including some of my G
 </details>
 
 
-### Connect with me
+#### Connect with me
 
 <div style="display: flex; gap: 20px; align-items: center;">
 
