@@ -16,5 +16,5 @@ jobs:
       - name: Fetch latest Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@asrajendrayadav"
+          feed_list: "https://medium.com/@rajendran22"
           max_post_count: 5   # Number of posts to show
