@@ -1,59 +1,138 @@
-<h1 align="center">Hi there, I'm Raj</h1>
+<h1 align="center">Hi there, I'm Raj 👋</h1>
 <!--- Adding Header Elements -->
 
+I’m a AI and Data Science Student at [CIT](https://www.cit.edu.in/) with hands-on experience in **Machine Learning** and **Computer Vision** through various projects, internships, and research work. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a> - 
-  <a href="https://www.leetcode.com/rajendran2201" target="blank">Leetcode</a> -
-  <a href="https://www.hackerrank.com/profile/asrajendrayadav" target="blank">HackerRank</a> -
-  <a href="https://medium.com/@asrajendrayadav" target="blank">Medium</a> -
-  <a href="https://x.com/rajastwt" target="blank">Twitter</a> 
   
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendran2201&label=Profile%20views&color=0e75b6&style=flat" alt="rajendran2201" /> </p>
 <h3>👨🏻‍💻 About Me</h3><img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-- I’m a student currently working in **Machine Learning**
+- I’m a student currently working on **Machine Learning** Projects.
 
-- My research areas are *Computer Vision, Object Detection, Audio analysis, and Large Language Models(LLMs)*
+- My interests span over the areas such as *Computer Vision, RAG, and Large Language Models(LLMs)*
 
-- How to reach me? **rajendran.stech@gmail.com** or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
+- How to reach me? [rajendran.stech@gmail.com](mailto:rajendran.stech@gmail.com)  or <a href="https://www.linkedin.com/in/rajendran-s-02b222270/">LinkedIn</a>
  
-- Where am I?  Currently studying **Artificial Intelligence & Data Science** at Coimbatore Institute of Technology (CIT) at Coimbatore
-
-- Check out my <a href="https://rajendrancodes.vercel.app/" target="_blank">portfolio</a> to view my work, projects, and contributions.
+- Where am I?  Currently Living in [Coimbatore](https://www.google.com/search?sca_esv=a4306da362cb3c28&sxsrf=AE3TifMc4NJ3pkMr1BBp11PJwbj25B4qYA:1764010108316&q=Coimbatore&stick=H4sIAAAAAAAAAONgVuLVT9c3NEw3yE4xTS8oX8TK5ZyfmZuUWJJflAoA1f2j8B4AAAA&sa=X&ved=2ahUKEwjvs4vfuYuRAxV8-DgGHTMjFBEQmxN6BAgZEAI)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+
+
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/) for a more detailed description of my full work experience, education, and certification. You can get in touch with me by email at [rajendran.stech@gmail.com](mailto:rajendran.stech@gmail.com) 
+
+<!--Latest Blogs-->
+
+### Latest Posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+
+
+<!--Languages and Tools-->
+<details>
+  <summary><h3>Languages and Tools</h3></summary>
+
+  <p align="left">
+
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+    </a>
+
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+    </a>
+
+  </p>
+</details>
+
+
+### Connect with me
+
+<div style="display: flex; gap: 20px; align-items: center;">
+
+  <a href="https://medium.com/@asrajendrayadav" target="_blank">
+    <img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/medium.png" 
+         alt="Instagram"
+         style="width: 40px; object-position: -240px 0;">
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+
+   <a href="https://x.com/rajastwt" target="_blank">
+    <img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/twitter.png" 
+         alt="Twitter"
+         style="width: 40px;">
   </a>
-
+  
+  <a href="https://www.linkedin.com/in/rajendran-s-02b222270/" target="_blank">
+    <img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/linkedin.png" 
+         alt="LinkedIn"
+         style="width: 40px;">
   </a>
-</p>
-
-<!--- 2nd Section on GitHub Analytics -->
-
-
-<!---<h3 align="left"><b>⚙️GitHub Analytics</b></h3> --->
-
-
-[![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Rajendran2201/GitHub-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
  
-<div align="center">
 
-
-#### spread LOVE ❤️ 
 </div>
+
+
 
      
