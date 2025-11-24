@@ -24,8 +24,9 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 <!--Latest Blogs-->
 
 ### Latest Posts
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 I write regular blog posts, most of which you will find on my personal [website](https://rajendrancodes.vercel.app/) and [medium](https://medium.com/@rajendran22)
 
