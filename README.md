@@ -7,7 +7,7 @@ I’m a AI and Data Science Student at [CIT](https://www.cit.edu.in/) with hands
   <img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" 
        width="350px" align="right">
 
-  <h4>👨🏻‍💻 About Me</h4>
+  <h4>About Me</h4>
 </div>
 
 
