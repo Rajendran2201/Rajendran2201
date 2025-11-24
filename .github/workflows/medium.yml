@@ -15,7 +15,7 @@ jobs:
       - name: Update Medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://feed.medium.com/@rajendran22"
+          feed_list: "https://medium.com/feed/%40rajendran22"
           max_post_count: 5
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
