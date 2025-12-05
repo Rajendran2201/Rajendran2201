@@ -26,11 +26,11 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 #### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate your ML models using RAPIDS AI](https://rajendran22.medium.com/accelerate-your-ml-models-using-rapids-ai-ad032d530ae4?source=rss-25951d3df7b1------2)
 - [26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART II](https://rajendran22.medium.com/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-ii-8110461624e3?source=rss-25951d3df7b1------2)
 - [26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART I](https://rajendran22.medium.com/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-i-f87c8685da52?source=rss-25951d3df7b1------2)
 - [What is MCP and why is suddenly everyone talking about it?](https://rajendran22.medium.com/what-is-mcp-and-why-is-suddenly-everyone-talking-about-it-a46339fd47b3?source=rss-25951d3df7b1------2)
 - [Is simplicity the new sophistication?](https://rajendran22.medium.com/is-simplicity-the-new-sophistication-36724668eb1b?source=rss-25951d3df7b1------2)
-- [The fear of being revelead as an amateur](https://rajendran22.medium.com/the-fear-of-being-revelead-as-an-amateur-cb87516da51f?source=rss-25951d3df7b1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
