@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raj 👋</h1>
 <!--- Adding Header Elements -->
 
-I’m a AI and Data Science Student at [CIT](https://www.cit.edu.in/) with hands-on experience in **Machine Learning** and **Computer Vision** through various projects, internships, and research work. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
+I’m a AI and Data Science Student at [CIT](https://www.cit.edu.in/) with hands-on experience in **Machine Learning** through various projects, internships, and research work. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. 
 
 <div>
   <img src="https://github.com/Rajendran2201/Rajendran2201/blob/main/Assets/illustration.png" 
