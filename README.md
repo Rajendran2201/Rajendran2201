@@ -26,6 +26,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 #### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Guide to Self-Supervised Learning](https://rajendran22.medium.com/a-beginners-guide-to-self-supervised-learning-27941f2bb4a9?source=rss-25951d3df7b1------2)
 - [Why learn from one source when you can learn from many? — MultiModal AI, a step towards AGI.](https://rajendran22.medium.com/why-learn-from-one-source-when-you-can-learn-from-many-multimodal-ai-a-step-towards-agi-41aad7ba5307?source=rss-25951d3df7b1------2)
 - [Build interactive plots in minutes using Plotly for Machine Learning](https://rajendran22.medium.com/build-interactive-plots-in-minutes-using-plotly-for-machine-learning-964d38e9732a?source=rss-25951d3df7b1------2)
 - [Calculus You Actually Need for Machine Learning](https://rajendran22.medium.com/calculus-you-actually-need-for-machine-learning-a36ed0799901?source=rss-25951d3df7b1------2)
@@ -35,7 +36,6 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 - [What is MCP and why is suddenly everyone talking about it?](https://rajendran22.medium.com/what-is-mcp-and-why-is-suddenly-everyone-talking-about-it-a46339fd47b3?source=rss-25951d3df7b1------2)
 - [Is simplicity the new sophistication?](https://rajendran22.medium.com/is-simplicity-the-new-sophistication-36724668eb1b?source=rss-25951d3df7b1------2)
 - [The fear of being revelead as an amateur](https://rajendran22.medium.com/the-fear-of-being-revelead-as-an-amateur-cb87516da51f?source=rss-25951d3df7b1------2)
-- [The Google File System](https://rajendran22.medium.com/the-google-file-system-60f510bd4e8a?source=rss-25951d3df7b1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
