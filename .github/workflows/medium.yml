@@ -21,6 +21,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/%40rajendran22"
-          max_post_count: 1000   
+          max_post_count: 7  
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
