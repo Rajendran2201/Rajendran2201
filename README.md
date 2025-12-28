@@ -51,7 +51,7 @@ All of my projects are released as open-source on GitHub:
 - [tinytoes](https://github.com/Rajendran2201/babycare): It is a comprehensive web platform designed to help parents understand and care for their babies using advanced AI technology. It offers features such as baby cry analysis, milestone tracking, expert consultations, and a nanny booking service to provide seamless support to parents.
 - [cognichat](https://github.com/Rajendran2201/CogniChat): This project allows users to upload multiple PDF documents and interactively chat about the content of those documents using a conversational AI model. The chatbot is designed to process PDF files, extract text from them, and generate embeddings for the text chunks using an open-source model (FLAN-T5). 
 
-[⏩ and many more](https://github.com/Rajendran2201?page=2&tab=repositories)
+[⏩ and many more](https://github.com/Rajendran2201?page=1&tab=repositories)
 
 
 #### Awards and Achievements
