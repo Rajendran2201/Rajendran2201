@@ -26,13 +26,13 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 
 #### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenMMLab — how real engineers do computer vision training?](https://rajendran22.medium.com/openmmlab-how-real-engineers-do-computer-vision-training-134a37aeaf43?source=rss-25951d3df7b1------2)
 - [Contrastive Learning: The Secret Behind Today’s Smartest Vision Models](https://rajendran22.medium.com/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss-25951d3df7b1------2)
 - [A Beginner’s Guide to Self-Supervised Learning](https://rajendran22.medium.com/a-beginners-guide-to-self-supervised-learning-27941f2bb4a9?source=rss-25951d3df7b1------2)
 - [Why learn from one source when you can learn from many? — MultiModal AI, a step towards AGI.](https://rajendran22.medium.com/why-learn-from-one-source-when-you-can-learn-from-many-multimodal-ai-a-step-towards-agi-41aad7ba5307?source=rss-25951d3df7b1------2)
 - [Build interactive plots in minutes using Plotly for Machine Learning](https://rajendran22.medium.com/build-interactive-plots-in-minutes-using-plotly-for-machine-learning-964d38e9732a?source=rss-25951d3df7b1------2)
 - [Calculus You Actually Need for Machine Learning](https://rajendran22.medium.com/calculus-you-actually-need-for-machine-learning-a36ed0799901?source=rss-25951d3df7b1------2)
 - [Accelerate your ML models using RAPIDS AI](https://rajendran22.medium.com/accelerate-your-ml-models-using-rapids-ai-ad032d530ae4?source=rss-25951d3df7b1------2)
-- [26 Important Concepts that you should learn in Linear Algebra for Machine Learning — PART II](https://rajendran22.medium.com/26-important-concepts-that-you-should-learn-in-linear-algebra-for-machine-learning-part-ii-8110461624e3?source=rss-25951d3df7b1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
