@@ -30,7 +30,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/rajendran-s-02b222270/)
 - [Making Models Forget: Why Machine Unlearning Is Harder Than Training](https://pub.towardsai.net/making-models-forget-why-machine-unlearning-is-harder-than-training-725b8abab89d?source=rss-25951d3df7b1------2)
 - [The math behind Linear and Logistic Regression: Cost Functions, Gradients, and Regularization](https://rajendran22.medium.com/the-math-behind-linear-and-logistic-regression-cost-functions-gradients-and-regularization-4964bc3040f1?source=rss-25951d3df7b1------2)
 - [How machines learn from data? An Introduction to Machine Learning.](https://rajendran22.medium.com/how-machines-learn-from-data-an-introduction-to-machine-learning-be3bda6eb26c?source=rss-25951d3df7b1------2)
-- [A complete guide to FastAPI for Machine Learning](https://pub.towardsai.net/a-complete-guide-to-fastapi-for-machine-learning-35dcdf076616?source=rss-25951d3df7b1------2)
+- [A complete guide to FastAPI for Machine Learning](https://ai.plainenglish.io/a-complete-guide-to-fastapi-for-machine-learning-35dcdf076616?source=rss-25951d3df7b1------2)
 - [OpenMMLab — how real engineers do computer vision training?](https://rajendran22.medium.com/openmmlab-how-real-engineers-do-computer-vision-training-134a37aeaf43?source=rss-25951d3df7b1------2)
 - [Contrastive Learning: The Secret Behind Today’s Smartest Vision Models](https://pub.towardsai.net/contrastive-learning-the-secret-behind-todays-smartest-vision-models-b51333fb72be?source=rss-25951d3df7b1------2)
 <!-- BLOG-POST-LIST:END -->
